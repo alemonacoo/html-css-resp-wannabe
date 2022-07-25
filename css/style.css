@@ -152,6 +152,10 @@ img {
         margin-bottom: 30px;
     }
 
+    .lessons .col img, .steps .col img {
+        height: 250px;
+    }
+
 }
 
 
